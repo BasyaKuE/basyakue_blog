@@ -1,5 +1,4 @@
-# basyakue blog
-blog.bsyk.xyz
+# go and next.js
 
 ```bash
 docker compose build
